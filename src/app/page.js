@@ -8,7 +8,7 @@ export default function HomePage() {
       <section className="w-full bg-gray-800 text-white py-16 px-8 text-center">
         <h1 className="text-4xl font-bold">Healthy Outlook</h1>
         <p className="mt-4 text-lg">Massage Therepy & Health Services</p>
-        <a>book now</a>
+        <a target="_blank" href="https://healthyoutlookmassageinc.noterro.com">book now</a>
         <p>Release, Relax, Unwind</p>
       </section>
 
@@ -18,7 +18,7 @@ export default function HomePage() {
       <section className="w-full bg-gray-100 py-16 px-8 text-center">
         <h2 className="text-3xl font-semibold mb-4">About Me</h2>
         <p>
-        Hi, I'm Sherri Andrews <br/><br/>
+        Hi, I am Sherri Andrews <br/><br/>
         
         I have been a Registered Massage Therapist with NHPC since 2002. I am very passionate about helping my clients through progressive therapy that is individualized to them.
         </p>
@@ -27,8 +27,8 @@ export default function HomePage() {
            {/* Row 3: Reviews */}
            <section className="w-full bg-white py-16 px-8 text-center">
         <h2 className="text-3xl font-semibold mb-4  ">What People Are Saying</h2>
-        <p>⭐️⭐️⭐️⭐️⭐️ - "Absolutely amazing!"</p>
-        <p className="mt-2">⭐️⭐️⭐️⭐️ - "Would recommend to a friend."</p>
+        <p>⭐️⭐️⭐️⭐️⭐️ - Absolutely amazing!</p>
+        <p className="mt-2">⭐️⭐️⭐️⭐️ - Would recommend to a friend.</p>
       </section>
 
       {/* Row 4: Gallery or Feature */}
@@ -44,11 +44,10 @@ export default function HomePage() {
       {/* Row 5: Contact Info */}
       <section className="w-full bg-gray-800 text-white py-16 px-8 text-center">
         <h2 className="text-3xl font-semibold mb-4">Contact Us</h2>
-        <p>Email: contact@example.com</p>
-        <p>Phone: +1 (234) 567-8901</p>
-        <p className="mt-2">123 Web Lane, Internet City</p>
+        <p>Email: sherri.andrews7@gmail.com</p>
+        <p>Phone: +1 (403) 870-1900</p>
+        <p className="mt-2">74 brightonwoods green, Calgary, Alberta, Canada</p>
       </section>
     </div>
   );
 }
-//healthyoutlookmassageinc.noterro.com
