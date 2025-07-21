@@ -23,12 +23,12 @@ return (
           I graduated from Mount Royal College and have been a Registered Massage Therapist with NHPC since 2002.
           I am very passionate about helping my clients through progressive therapy that is individualized to them. I specialize in, but am not limited to, deep tissue techniques focusing on postural issues.
           <br /><br />
-          My typical treatment incorporates massage with myofascial release, deep tissue work, joint mobilizations, and trigger point therapy. I'm also certified in Cupping, Reflexology, and Active Release.
+          My typical treatment incorporates massage with myofascial release, deep tissue work, joint mobilizations, and trigger point therapy. I am also certified in Cupping, Reflexology, and Active Release.
           Combining these techniques helps relieve tight muscles, pain, stress, and overuse injuries.
           <br /><br />
           I strongly believe in preventative maintenance—assessing and treating the body to identify problem areas before injury and degeneration occur.
           <br /><br />
-          I'm excited to work with new clients and help them improve and maintain their health. Areas of specialization include Pre and Postnatal care, Sciatic relief, Headaches, and TMJ.
+          I am excited to work with new clients and help them improve and maintain their health. Areas of specialization include Pre and Postnatal care, Sciatic relief, Headaches, and TMJ.
           <br /><br />
           In my spare time, I enjoy outdoor adventures. My favorite things are traveling, yoga, hiking, and camping with my family, friends, and dog.
         </p>
