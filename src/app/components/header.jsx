@@ -11,9 +11,9 @@ const Header = () =>{
       <li>
         <a href="/about" className="hover:text-orange-500 transition">About Me</a>
       </li>
-      <li>
+      {/* <li>
         <a href="/services" className="hover:text-orange-500 transition">Additional Services</a>
-      </li>
+      </li> */}
     </ul>
   </nav>
 </header>

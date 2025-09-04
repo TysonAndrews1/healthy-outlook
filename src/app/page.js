@@ -48,7 +48,7 @@ export default function HomePage() {
     </section>
 
     {/* Row 4: Direct Billing */}
-    <section className="py-10 px-8 text-center bg-gray-100 rounded-xl mx-8 shadow-xl">
+    <section className="py-10 px-8 text-center bg-white rounded-xl mx-8 shadow-xl">
       <h2 className="text-3xl font-semibold mb-4">Direct Billing</h2>
       <div className="flex flex-wrap gap-4 items-center justify-center">
         <img src="/logos/sunlife.png" alt="Sunlife" className="h-12" />
